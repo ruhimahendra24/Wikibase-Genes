@@ -33,7 +33,7 @@ from __future__ import absolute_import, unicode_literals
 # default (the ‘family’ variable below), you must place the function call
 # before the definition of the ‘family’ variable.
 family = 'semlab'
-family_files['semlab'] = 'http://192.168.2.150:8181/'
+family_files['semlab'] = 'http://10.0.2.15:8181/'
 
 # The language code of the site we're working on.
 mylang = 'en'
