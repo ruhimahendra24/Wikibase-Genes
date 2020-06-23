@@ -1,185 +1,200 @@
 Label,P1:wikibase-item,P2:wikibase-item,P3:String,P4:String,,QID
-AAO3,Q1,Q3,"Arabidopsis aldehyde oxidase, catalyzes final step in ABA biosynthesis",mutant: wilty phenotype,,Q202
-ABCG22,Q1,Q4,ABC-transporter,knockout: more susceptible to drought stress,,Q203
-ABCG25,Q1,Q5,"ABC-transporter, ABA export from cells",overexpressor: higher leaf temperature,,Q204
-ABCG40,Q1,Q6,"ABC-transporter, ABA import","knockout: upregulation of ABA responsive genes is delayed, stomata close more slowly",,Q205
-ABF3,Q1,Q7,ABA responsive element (ABRE) binding bZIP factor,overexpression: enhanced drought tolerance,,Q206
-ABF4,Q1,Q8,ABA responsive element (ABRE) binding bZIP factor,overexpression: enhanced drought tolerance,,Q207
-ABH1/CBP80,Q1,Q9,subunit of mRNA cap-binding complex,mutant: stomatal aperture decreased,,Q208
-ABI1,Q1,Q10,PP2C,ABA insensitive mutant: wilting and witherung under water stress condition,,Q209
-ABI2,Q1,Q11,PP2C,ABA insensitive,,Q210
-ABO1/ELO1,Q1,Q12,"subunit of Elongator, a multifunctional complex with roles in transcription elongation, secretion and tRNA modification","abo1 = ABA overly sensitive, drought resistant phenotype, ABA-induced stomatal closing is enhanced",,Q211
-ABP9,Q1,Q13,"bZIP TF, ABRE binding","expression in Ath: enhanced tolerance to drought, hig salt, freezing",,Q212
-ADAP,Q1,Q14,"ARIA-interacting, AP2 domain",pos. Regulator of ABA,,Q213
-ADR1,Q1,Q16,coiled-coil-nucleotide-binding site-LRR protein,overexpressor: enhanced drought tolerance,,Q215
-AGO1,Q1,Q17,Argonaute1,loss-of-function: enhanced drought tolerance,,Q216
-AHK1,Q1,Q18,histidine kinase,overexpression: drought tolerance,,Q217
-AIRP1,Q1,Q19,C3H2C3-type RING E3 ubiquitin ligase,overexpressor: tolerant to severe drought stress,,Q218
-ALDH22A1,Q1,Q20,aldehyde dehydrogenase,expression in tobacco: enhanced stress tolerance,,Q219
-ALDH3I1,Q1,Q21,aldehyde dehydrogenase,overexpression: improved tolerance to dehydration,,Q220
-ALR,Q1,Q22,aldose/aldehyde reductase,overexpression in tobacco: more tolerant to drought and UV-B,,Q221
-AlSAP,Q1,Q23,A20/AN1 zinc-finger protein,"expression in tobacco: drough, salt, freezing, heat tolerance",,Q222
-AnnAt1,Q1,Q24,Annexin1,upregulated upon abiotic stress,,Q223
-AnnAt4,Q1,Q25,Annexin4,double mutant annAt1 annAt4: tolerance to drought,,Q224
-AP37,Q1,Q26,AP2 domain TF,overexpression: enhanced drought tolerance,,Q225
-APX,Q1,Q27,ascorbate peroxidase,"expression in tobacco: increased root growth, improved drought and salt stress resistance",,Q226
-APX2,Q1,Q28,"Ascorbate peroxidase 2, H2O2 scavenger",overexpressor (=alx8 = gain-of function): drought tolerant,,Q227
-AREB1,Q1,Q29,"bZIP TF, ABRE binding",needs ABA-dependent phosphorylation for activation,,Q228
-ASR1,Q1,Q30,putative TF,genetically linked to drought tolerance QTL,,Q229
-AtATL78,Q1,Q31,RING E3 ubiquitin ligase,AtATL78 is a negative regulator of cold stress response and a positive regulator of drought stress response in Arabidopsis.,,Q230
-AtBG1,Q1,Q32,"beta-glucosidase; hydrolyzes glucose-conjugated, inactive ABA to active ABA",overexpression: drought tolerance,,Q231
-ATHB6,Q1,Q33,"homeodomain protein, target of ABI1",overexpression: ABA insensitivity,,Q232
-AtNF-YB1,Q1,Q34,"plant transcription factor, nuclear factor Y family protein",increased expression level: improved performance under drought conditions,,Q233
-AtrbohD,Q1,Q35,NADPH oxidase catalytical subunit,atrbohD/F double mutant: ABA induced stomatal closing is impaired,,Q234
-AtrbohF,Q1,Q36,NADPH oxidase catalytical subunit,atrbohD/F double mutant: ABA induced stomatal closing is impaired,,Q235
-AVP1,Q1,Q37,vacuolar membrane H+-Pyrophosphatase,overexpressor: more tolerant to drought and salt stress,,Q236
-BnPIP1,Q1,Q38,PIP,overexpression in tobacco: increased tolerance to water stress,,Q237
-BnPtdIns-PLC2,Q1,Q39,phosphatidylinositol-specific phospholipase C2,overexpression: enhanced drought tolerance,,Q238
-CaBI-1,Q1,Q40,anti PCD factor,"expression in tobacco: improved tolerance to high temperature, water deficit and high salinity",,Q239
-CAP2,Q1,Q41,AP2 domain TF,expression in tobacco: more tolerant to salt and dehydration,,Q240
-CAU1,Q1,Q42,H4R3sme2 (for histone H4 Arg 3 with symmetric dimethylation)-type histone methylase protein arginine methytransferase5/Shk1 binding protein1,cau1 mutant plants display increased drought tolerance and stomatal closure,,Q241
-CBF4,Q1,Q43,DREB family TF,"up-regulated by drought stress, overexpressors are more tolerant to freezing and drought stress",,Q242
-CBF4,Q1,Q44,CBF/DREB TF,overexpression in rice: enhanced drought tolerance,,Q243
-CBL1,Q1,Q45,calcineurin B-like protein,overexpression: enhanced tolerance to salt and drought,,Q244
-CBP20,Q1,Q46,Cap Binding Protein 20 (mRNA cap),loss-of-function: hypersensitivity to ABA,,Q245
-CDPK7,Q1,Q47,calcium-dependent protein kinase,overexpression: enhanced induction of stress-responsive genes,,Q246
-CIPK03,Q1,Q48,calcineurin B-like protein-interacting protein kinase,"overexpression: improved tolerance to drought, cold and salt stress",,Q247
-CIPK12,Q1,Q49,calcineurin B-like protein-interacting protein kinase,"overexpression: improved tolerance to drought, cold and salt stress",,Q248
-CIPK15,Q1,Q50,calcineurin B-like protein-interacting protein kinase,"overexpression: improved tolerance to drought, cold and salt stress",,Q249
-CLCc,Q1,Q51,chloride channel,"expressed guard cells, root an pollen; tonoplast; mutant: ABA dependent stomata closure impaired",,Q250
-CML9,Q1,Q52,calmodulin-like protein,knockout: enhanced drought and salt tolerance,,Q251
-COIN,Q1,Q54,RING-finger protein,"overexpression: enhanced tolerance to cold, salt and drought",,Q253
-CPK21,Q1,Q55,calcium-dependent protein kinase,activated by hyperosmotic stress,,Q254
-CPK23,Q1,Q56,calcium-dependent protein kinase,mutant: enhanced tolerance to drought and salt stress,,Q255
-CpMYB10,Q1,Q57,MYB TF,overexpession in Ath: desiccation and salt tolerance,,Q256
-CrNCED1,Q1,Q58,ABA biosynthesis,"transgenic lines displayed enhanced tolerance to dehydration, drought, salt and oxidative stresses",,Q257
-CRT,Q1,Q59,"Calreticulin, Ca2+ binding protein",overexpressing tobacco: enhanced drought resistance,,Q258
-DgZFP3,Q1,Q62,Cys2/His2-type zinc finger protein gene,"The transgenic lines exhibited less accumulation of H2O2 under drought stress, more accumulation of proline and greater activities of peroxidase (POD) and superoxide dismutase than the WT under both control conditions and drought stress",,Q261
-DHAR2,Q1,Q63,dehydroascorbate reductase,"expression in tobacco: enhanced tolerance to ozone, drought, salt and PEG",,Q262
-DOR,Q1,Q64,"drought tolerance repressor, F-box protein","preferentially expressed guard cells, suppressed by ABA treatment, ko: hypersensitive to ABA, drought tolerance",,Q263
-DREB1A/CBF3,Q1,Q65,DREB family TF,overexpression in tobacco: improved drought stress tolerance,,Q264
-DREB2A,Q1,Q66,transcription factor (dehydration responsive element binding),expression induced by dehydration,,Q265
-DREB2A,Q1,Q67,homolog to arabidopsis DREB2A,"functional transcript induced by stress, overexpression leads to increased stress tolerance",,Q266
-DSM2,Q1,Q68,"put. beta-carotene hydroxylase, ABA biosynthesis",mutant: decreased drought resistance,,Q267
-EDT1/HDG11,Q1,Q69,"enhanced drought tolerance1, HD START TF","T-DNA activation tagged mutant: enhanced drought tolerance, more extensive root system, deeper roots more lateral roots",,Q268
-ERA1,Q1,Q70,farnesyltransferase,mutant: reduction in transpirational water loss during drought,,Q269
-ERD1,Q1,Q71,chloroplast-targeted Clp protease reg SU,induction of ERD1 requires over-expression of both ZFHD1 and NAC,,Q270
-EVP1,Q1,Q72,vacuolar pyrophosphatase,EVP1 overexpression conferred plant tolerance to salt and drought treatments,,Q271
-FAD3,Q1,Q73,fatty acid desaturase,overexpression in tobacco: increased drought tolerance,,Q272
-FAD8,Q1,Q74,fatty acid desaturase,overexpression in tobacco: increased drought tolerance,,Q273
-FAR1,Q1,Q75,"FAR-RED IMPAIRED RESPONSE1, key positive transcription factors in the phytochrome A pathway","fhy3 and far1 mutants have wider stomata, lose water faster, and are more sensitive to drought than the wild type.",,Q274
-FHY3,Q1,Q76,"FAR-RED ELONGATED HYPOCOTYL3, key positive transcription factors in the phytochrome A pathway","fhy3 and far1 mutants have wider stomata, lose water faster, and are more sensitive to drought than the wild type.",,Q275
-FSPD1,Q1,Q77,spermidin synthase,expression in AT: enhanced tolerance to multiple environmentalstresses,,Q276
-GbRLK,Q1,Q78,Receptor-like kinase,"constitutive overexpression of GbRLK exhibited a reduced rate of water loss in leaves in vitro, along with improved salinity and drought tolerance and increased sensitivity to ABA",,Q277
-GCR1,Q1,Q79,putative G protein-coupled receptor,mutant: hypersensitivity to ABA and drought tolerant,,Q278
-GF14lambda,Q1,Q80,14-3-3 protein,expression cotton: stay green phenotype and enhanced drought tolerance,,Q279
-GhMKK1,Q1,Q81,Mitogen-activated protein kinase kinases,overexpression of GhMKK1 in Nicotiana benthamiana enhanced its tolerance to salt and drought stresses,,Q280
-GhMT3a,Q1,Q82,"metallothionein, ROS scavenger",expression in tobacco: increased tolerance to abiotic stress,,Q281
-GL1-2,Q1,Q83,wax biosynthesis,knockout: more sensitive to drought,,Q282
-GmERF3,Q1,Q84,AP2/ERF-like transcription factor,expression in tobacco: tolerance to high salinity and drought,,Q283
-GmTP55,Q1,Q85,stress-induced plant antiquitin-like protein,overexpression in tobacco and AT: tolerance to water deficit,,Q284
-GolS1,Q1,Q86,"Galactinol Synthase, catalyzes the first step in the biosynthesis of Raffinose Family Oligosaccharides (RFOs) from UDP-galactose",expression induced by drought and high-salinity stress,,Q285
-GolS2,Q1,Q87,"Galactinol Synthase, catalyzes the first step in the biosynthesis of Raffinose Family Oligosaccharides (RFOs) from UDP-galactose","Overexpression of AtGolS2 in transgenic Arabidopsis caused an increase in endogenous galactinol and raffinose, and showed reduced transpiration from leaves to improve drought tolerance",,Q286
-GORK,Q1,Q88,outward K+ channel,disruption of GORK: stomatal closure is impaired,,Q287
-GPA1,Q1,Q89,alpha subunit of heterotrimeric GTP-binding protein,null mutant: ABA hypersensitivity,,Q288
-GPX3,Q1,Q90,glutathione peroxidase3,mutant: higher water loss under drought,,Q289
-GSTU17,Q1,Q91,glutathion s-transferase U17,knockout: higher GSH and ABA,,Q290
-GsZFP1,Q1,Q92,Cys2/His2-type zinc-finger protein,Overexpression of GsZFP1 also enhanced the drought tolerance of alfalfa,,Q291
-HAB1,Q1,Q95,PP2C,mutant: ABA hypersensitive,,Q294
-HARDY,Q1,Q96,AP2/ERF-like transcription factor,"AT gain-of-function: roots with enhanced strength, branching and cortical cells, drought resistance; overexpression in rice: drought tolerance",,Q295
-HD2C,Q1,Q97,histone deacetylase,expression repressed by ABA,,Q296
-HDA19,Q1,Q98,histone deacetylase,knockout: hypersensitive to salt and ABA,,Q297
-HDA6,Q1,Q99,histone deacetylase,knockout: hypersensitive to salt and ABA,,Q298
-HSFA1b,Q1,Q100,Heat shock transcription factor,increased HSFA1b expression showed increased water productivity and harvest index under water-replete and water-limiting conditions,,Q299
-HVA1,Q1,Q101,group 3 late embryogenesis abundant protein,transgenic wheat expressing HVA1 shows enhanced drought tolerance,,Q300
-IMT1,Q1,Q104,D-myo-inositol methyltransferase,expression in tobacco: enhanced tolerance to drought and salinity,,Q302
-JERF1,Q1,Q105,ethylene response factor (ERF),overexpression in tobacco: improved drought stress tolerance,,Q303
-KAT2,Q1,Q106,3-ketoacyl-CoA thiloase-2,"kat2-3 mutant: ABA-insensitive phenotypes, KAT2-overexpressing transgenic lines: strong ABA-hypersensitive phenotypes (ABA-induced stomatal closure and  inhibition of stomatal opening",,Q304
-KAT2,Q1,Q107,"K+ channel, inward rectifying",plants expressing a dominant negative (domneg) kat2 construct in the kat2-1 knockout background display decreased transpirational water loss during the light period when compared with WT plants,,Q305
-LEW1,Q1,Q108,"cis-prenyltransferase, involved in dolichol biosythesis",mutant increased drought tolerance but hypersensitive to dark stress,,Q306
-LHCB6,Q1,Q109,light harvesting chlorophyll a/b binding protein,"mutant: reduced resposiveness to ABA-dependent stomatal movement, decreased drought tolerance; overexpression: stomatal sensitivity to ABA is enhanced",,Q307
-LLA23,Q1,Q110,"ABA-, stress-, and ripening-induced protein",expression in Ath:reduced sensitivity to ABA,,Q308
-LOS5,Q1,Q111,molybdenum-cofactor sulfurase,"knockout: drought susceptible, ABA deficient, increased water loss",,Q309
-MdoMYB121,Q1,Q112,MYB TF,"A transgenic analysis indicated that the overexpression of the MdoMYB121 gene remarkably enhanced the tolerance to high salinity, drought, and cold stresses in transgenic tomato and apple plants",,Q310
-MH1,Q1,Q113,helicase1,expression in Ath: improved growth under drought,,Q311
-MIR168A,Q1,Q114,microRNA168,"overexpressor: ABA hypersensitive, enhanced drought tolerance",,Q312
-miR393,Q1,Q115,microRNA393,overexpressor: reduced tolerance to drought,,Q313
-MRP4,Q1,Q116,"multidrug resistance-associated protein, ABC transporter","knockout: increased stomatal aperture, increased water loss",,Q314
-MYB2,Q1,Q117,transcriptional activator of ABA signaling,overexpressor: improved stress tolerance,,Q315
-MYB4,Q1,Q118,MYB TF,overexpression in AT: accumulation of compatible solutes,,Q316
-MYB44,Q1,Q119,MYB type TF,"overexpression: more sensitive to ABA, more rapid ABA-induced stomatal closure",,Q317
-MYB60,Q1,Q120,R2R3-MYB,expression downregulated under dehydration, enhanced drought tolerance,Q318
-MYB61,Q1,Q121,R2R3-MYB,specifically expressed guard cells,,Q319
-MYC2,Q1,Q122,transcriptional activator of ABA signaling,overexpressor: improved stress tolerance,,Q320
-NAC2a,Q1,Q123,NAC TF,tobacco overexpressing TaNAC2a: higher dry and fresh weight under drought conditions,,Q321
-NADP-ME,Q1,Q124,NADP-malic enzyme,expression in tobacco: decreased stomatal conductance,,Q322
-NCED,Q1,Q125,ABA biosynthesis key enzyme,overexpressor: improved drought tolerance,,Q323
-NFYA5,Q1,Q126,part of NF-Y,"transcription induced by drought, ABA-dependent; contains target site for miR169, which is downregulated during stress; nfya5 ko: more sensitive to drought",,Q324
-NHO1,Q1,Q127,glycerol kinase,mutant: gli1 = glycerol-insensitive1: dehydration resistance,,Q325
-NtAQP1,Q1,Q129,PIP1 plasma membrane aquaporin,reduced expression: lower water stress resistance,,Q327
-OCP3,Q1,Q130,HD family transcriptional regulator,knockout: drought resistance and enhanced disease resistance,,Q328
-OCPI1,Q1,Q131,Oryza sativa chymotrypsin inhibitor-like 1,overexpression: higher grain yield under drought,,Q329
-OsbZIP23,Q1,Q132,bZIP transcription factor,overexpressor: improved tolerance to drought andand high-salinity stress,,Q330
-OsbZIP71,Q1,Q133,bZIP transcription factor,"OsbZIP71 overexpressing (p35S::OsbZIP71) rice significantly improved tolerance to drought, salt and PEG osmotic stresses",,Q331
-OsbZIP72,Q1,Q134,bZIP transcription factor,"overexpressor: ABAhypersensitive, enhanced drought tolerance",,Q332
-OsDERF1,Q1,Q135,drought responsive ethylene response factor (ERF),knockdown: enhanced tolerance to drought,,Q333
-OsDREB1A,Q1,Q136,transcription factor (dehydration responsive element binding),"transgenic rice: improved drought, high-salt and cold stress tolerance",,Q334
-OsDREB2A,Q1,Q137,homolog to arabidopsis DREB2A,expression induced after dehydration,,Q335
-OsiSAP8,Q1,Q138,"Stress associated protein gene family, zinc finger domain","overexpression in tobacco and rice: tolerance to cold, salt and drought",,Q336
-OSM1/SYP61,Q1,Q139,"osmotic stess-sensitive; related to mammalian syntaxin, SNARE family protein",mutant: more prone to wilting,,Q337
-OsMSR2,Q1,Q140,calmodulin-like gene,expression in Ath: tolerance to salt and drought,,Q338
-OsMYB3R-2,Q1,Q141,MYB TF,"expression in Ath: increased tolerance to drought, cold and salt stress",,Q339
-OsPIP1-1,Q1,Q142,aquaporin,expression in arabidopsis: enhanced tolerance to salt and drought,,Q340
-OsPIP2-2,Q1,Q143,aquaporin,expression in arabidopsis: enhanced tolerance to salt and drought,,Q341
-OsPUP7,Q1,Q144,PUP(purine permease)-type cytokinin transporter gene,The mutant also showed increased sensitivity to drought and salt stresses and treatments with kinetin and abscisic acid,,Q342
-OST1/SRK2E,Q1,Q145,"Kinase-like (open stomata 1), activated by ABA, activates SLAC1",ABA-induced stomatal closure is impaired in ost1,,Q343
-OST2,Q1,Q146,plasma membrane proton ATPase,mutant: reduced ability to close stomata in response to drought,,Q344
-OsWRKY45,Q1,Q147,WRKY type TF,expression in Ath:enhanced tolerance to drought and biotic stress,,Q345
-PARP1,Q1,Q150,poly(ADP-ribose) polymerase,downregulation: enhanced stress tolerance,,Q348
-PARP2,Q1,Q151,poly(ADP-ribose) polymerase,downregulation: enhanced stress tolerance,,Q349
-PDH45,Q1,Q152,stress responsive helicase,overexpressor: Stress-induced root growth was also substantially higher,,Q350
-PEPCK,Q1,Q153,PEP carboxykinase,isoform that is specifically expressed in GCs,,Q351
-PFA-DSP1,Q1,Q154,plant and fungi atypical dual-specifity phosphatase,"expression induced by drought, overexpression in rice/tobacco: increased sensitivity to drought",,Q352
-PLD,Q1,Q157,"Phospholipase D, lipid degrading enzyme",differential gene expression in drought -sensitive and -tolerant cultivars,,Q353
-PO2,Q1,Q158,extracellular peroxidase 2,"expression induced by drought, cold, high salinity; ko: increased susceptibility; overexpression in AT: enhanced tolerance to high salt, drought and oxidative stress",,Q354
-PP2Ac-1,Q1,Q159,"PP2A, catalytical subunit",overexpression in tobacco: higher drought tolerance,,Q355
-PP2C,Q1,Q160,PP2C,overexpression in Ath: decreased tolerance to salt and drought,,Q356
-PYL9/RCAR1,Q1,Q161,soluble ABA receptor interacts with and regulates PP2Cs ABI1 and ABI2,"overexpressor: hypersensitive to ABA, regulation of stomatal aperture is impaired",,Q357
-RFP1,Q1,Q162,"RING-finger protein, ortholog to AT SDIR1 (salt and drought -induced RING finger1)","upregulated by drought and exogenous ABA, Overexpression of ZmRFP1 enhanced drought tolerance in tobacco. The transgenic tobacco lines had more closed stomatal pores, higher proline accumulation, but lower levels of malondialdehyde (MDA) when compared wit",,Q358
-RGS1,Q1,Q163,regulator of G-protein signaling,overexpression: increased drought tolerance,,Q359
-RPK1,Q1,Q164,LRR receptor like kinase,upregulated by ABA,,Q360
-RWC3,Q1,Q165,aquaporin,overexpression: higher root osmotic hydraulic conductivity,,Q361
-SAD1,Q1,Q166,"supersensitive to ABA and drought 1; put RNA binding protein, RNA processing and / or degradation",sad1: ABA and drought oversensitivity,,Q362
-SAMDC,Q1,Q167,"S-adenosyl methionine decarboxylase, Polyamin synthesis",no drought tolerance but faster recovery in SAMDC expressing rice,,Q363
-SHINE1 (SHN1/WIN1),Q1,Q168,"AP2/EREBP transcription factor, wax production",overexpressor,,Q364
-SIERF5 (ERF5),Q1,Q169,ethylene response factor (ERF) superfamily,"expression induced by salinity, drought; overexpression: higher tolerance to drought",,Q365
-SINAGS1,Q1,Q170,single copy of N-acetyl-L-glutamate synthase,expression in Ath: accumulation of ornithine,,Q366
-SLAC1,Q1,Q171,slow anion channel 1,"slac1: higher stomatal conductance than wild type, increased water loss",,Q367
-SLAH3,Q1,Q172,guard cell S-type anion channel (SLAC1 homolog),S-type anion channels are direct targets of ABA signaling and lead to release of chloride and nitrate--> stomatal closure,,Q368
-SNAC1,Q1,Q174,stress-responsive NAC1,overexpression in rice: drought tolerance is enhanced,,Q369
-SOD,Q1,Q175,superoxide dismutase,overexpression: more tolerant to water deficit,,Q370
-SodERF3,Q1,Q176,AP2/ERF-like transcription factor,expression in tobacco: tolerance to drought,,Q371
-SQE1,Q1,Q177,squalene epoxidase1,knockout: hypersensitive to drought,,Q372
-Srg6,Q1,Q178,"stress-responsive gene, TF",overexpression in Ath: water stress tolerance,,Q373
-SRK2C,Q1,Q179,"SNF1-related protein kinase 2, osmotic-stress-activated protein kinase",knockout: drought hypersensitivity in roots,,Q374
-STZ,Q1,Q180,ZPT2-related protein,overexpressor: growth retardation and tolerance to drought stress,,Q375
-TaBTF3,Q1,Q181,"Basic transcription factor 3,  transcriptional initiation of RNA polymerase II","TaBTF3-silenced wheat plants showed lower survival rates, free proline content, and relative water content and higher relative electrical conductivity and water loss rate",,Q376
-TaLEA,Q1,Q182,Late embryogenesis abundant,TaLEA gene may enhance salt and drought tolerance by protecting cell membranes from damage,,Q377
-TAS14,Q1,Q183,"dehydrin, group2 LEA proteins",overexpressors: improved long-term drought tolerance,,Q378
-TERF1,Q1,Q184,tomato ERF transcription activator,expression in tobacco: ABA hypersensitivity and drought tolerance,,Q379
-ThbZIP1,Q1,Q185,bZIP TF,"Expression of ThbZIP1 is induced by ABA, salt, drought, methyl viologen and cold",,Q380
-ThIPK2,Q1,Q186,inositol polyphosphate kinase,expression in Brassica: improved salt dehydration and oxidative stress resistance,,Q381
-TPS1,Q1,Q187,trehalose-6-phosphate synthase,expression in tobacco: increased drought tolerance,,Q382
-UGE-1,Q1,Q188,"UDP-glucose 4-spimerase, conversion of UDP-GLC to UDP-D-galactose and vv","overexpression in Ath: enhanced tolerance to drought, salt and cold",,Q383
-VP,Q1,Q189,vacuolar membrane H+-Pyrophosphatase,overexpression in AT: increased salt and drought tolerance,,Q384
-WR1,Q1,Q190,"wax synthesis regulatory gene 1, homology to AT SHN1/WIN1",transcription induced by drought,,Q385
-WRKY19,Q1,Q191,WRKY-type TF,overexpression in AT: enhanced drought tolerance,,Q386
-WRKY2,Q1,Q192,WRKY-type TF,overexpression in AT: enhanced drought tolerance,,Q387
-XERICO,Q1,Q194,"small protein, N-term- TM domain and RING-H2 zinc-finger motif","gene expression induced by salt and osmotic stress, overexpressors: hypersensitive to salt and osmotic stress",,Q389
-ZFP1,Q1,Q195,C2H2-type zinc-finger protein,overexpression in AT: greater tolerance to cold and drought,,Q390
-ZFP1,Q1,Q196,Cys2/His2 FZP protein,heterologous expression in AT: improved tolerance to salinity and drought,,Q391
-ZmACS6,Q1,Q197,"ACC synthase, first step in ethylene biosynthesis",loss-of-function: delayed drought-induced senescence (chlorophyll content),,Q392
-ZmCPK4,Q1,Q198,Calcium-dependent protein kinases,"overexpression of ZmCPK4 in the transgenic Arabidopsis enhanced ABA sensitivity in seed germination, seedling growth and stomatal movement. The transgenic plants also enhanced drought stress tolerance",,Q393
-ZmDREB2.7,Q1,Q199,DREB TF,"natural variation in the promoter of ZmDREB2.7 contributes to maize drought tolerance,  transgenic Arabidopsis overexpressing ZmDREB2.7 displayed enhanced tolerance to drought stress.",,Q394
-ZmNF-YB2,Q1,Q200,"plant transcription factor, nuclear factor Y family protein",increased expression level: improved performance under drought conditions,,Q395
-ZPT2-3/EPF2-7,Q1,Q201,Cys2/His2- type zinc finger protein,overexpression: increased tolerance to dehydration,,Q396
+AAO3,Q1,Q3,"Arabidopsis aldehyde oxidase, catalyzes final step in ABA biosynthesis",mutant: wilty phenotype,,Q41
+ABCG22,Q1,Q3,ABC-transporter,knockout: more susceptible to drought stress,,Q42
+ABCG25,Q1,Q3,"ABC-transporter, ABA export from cells",overexpressor: higher leaf temperature,,Q43
+ABCG40,Q1,Q3,"ABC-transporter, ABA import","knockout: upregulation of ABA responsive genes is delayed, stomata close more slowly",,Q44
+ABF3,Q1,Q3,ABA responsive element (ABRE) binding bZIP factor,overexpression: enhanced drought tolerance,,Q45
+ABF4,Q1,Q3,ABA responsive element (ABRE) binding bZIP factor,overexpression: enhanced drought tolerance,,Q46
+ABH1/CBP80,Q1,Q3,subunit of mRNA cap-binding complex,mutant: stomatal aperture decreased,,Q47
+ABI1,Q1,Q3,PP2C,ABA insensitive mutant: wilting and witherung under water stress condition,,Q48
+ABI2,Q1,Q3,PP2C,ABA insensitive,,Q49
+ABO1/ELO1,Q1,Q3,"subunit of Elongator, a multifunctional complex with roles in transcription elongation, secretion and tRNA modification","abo1 = ABA overly sensitive, drought resistant phenotype, ABA-induced stomatal closing is enhanced",,Q50
+ABP9,Q1,Q4,"bZIP TF, ABRE binding","expression in Ath: enhanced tolerance to drought, hig salt, freezing",,Q51
+ADAP,Q1,Q3,"ARIA-interacting, AP2 domain",pos. Regulator of ABA,,Q52
+adc,Q1,Q5,arginine decarboxylase,polyamine biosynthesis,,Q53
+ADR1,Q1,Q3,coiled-coil-nucleotide-binding site-LRR protein,overexpressor: enhanced drought tolerance,,Q54
+AGO1,Q1,Q3,Argonaute1,loss-of-function: enhanced drought tolerance,,Q55
+AHK1,Q1,Q3,histidine kinase,overexpression: drought tolerance,,Q56
+AIRP1,Q1,Q3,C3H2C3-type RING E3 ubiquitin ligase,overexpressor: tolerant to severe drought stress,,Q57
+ALDH22A1,Q1,Q4,aldehyde dehydrogenase,expression in tobacco: enhanced stress tolerance,,Q58
+ALDH3I1,Q1,Q3,aldehyde dehydrogenase,overexpression: improved tolerance to dehydration,,Q59
+ALR,Q1,Q6,aldose/aldehyde reductase,overexpression in tobacco: more tolerant to drought and UV-B,,Q60
+AlSAP,Q1,Q7,A20/AN1 zinc-finger protein,"expression in tobacco: drough, salt, freezing, heat tolerance",,Q61
+AnnAt1,Q1,Q3,Annexin1,upregulated upon abiotic stress,,Q62
+AnnAt4,Q1,Q3,Annexin4,double mutant annAt1 annAt4: tolerance to drought,,Q63
+AP37,Q1,Q8,AP2 domain TF,overexpression: enhanced drought tolerance,,Q64
+APX,Q1,Q9,ascorbate peroxidase,"expression in tobacco: increased root growth, improved drought and salt stress resistance",,Q65
+APX2,Q1,Q3,"Ascorbate peroxidase 2, H2O2 scavenger",overexpressor (=alx8 = gain-of function): drought tolerant,,Q66
+AREB1,Q1,Q3,"bZIP TF, ABRE binding",needs ABA-dependent phosphorylation for activation,,Q67
+ASR1,Q1,Q4,putative TF,genetically linked to drought tolerance QTL,,Q68
+AtATL78,Q1,Q3,RING E3 ubiquitin ligase,AtATL78 is a negative regulator of cold stress response and a positive regulator of drought stress response in Arabidopsis.,,Q69
+AtBG1,Q1,Q3,"beta-glucosidase; hydrolyzes glucose-conjugated, inactive ABA to active ABA",overexpression: drought tolerance,,Q70
+ATHB6,Q1,Q3,"homeodomain protein, target of ABI1",overexpression: ABA insensitivity,,Q71
+AtNF-YB1,Q1,Q3,"plant transcription factor, nuclear factor Y family protein",increased expression level: improved performance under drought conditions,,Q72
+AtrbohD,Q1,Q3,NADPH oxidase catalytical subunit,atrbohD/F double mutant: ABA induced stomatal closing is impaired,,Q73
+AtrbohF,Q1,Q3,NADPH oxidase catalytical subunit,atrbohD/F double mutant: ABA induced stomatal closing is impaired,,Q74
+AVP1,Q1,Q3,vacuolar membrane H+-Pyrophosphatase,overexpressor: more tolerant to drought and salt stress,,Q75
+BnPIP1,Q1,Q10,PIP,overexpression in tobacco: increased tolerance to water stress,,Q76
+BnPtdIns-PLC2,Q1,Q10,phosphatidylinositol-specific phospholipase C2,overexpression: enhanced drought tolerance,,Q77
+CaBI-1,Q1,Q11,anti PCD factor,"expression in tobacco: improved tolerance to high temperature, water deficit and high salinity",,Q78
+CAP2,Q1,Q12,AP2 domain TF,expression in tobacco: more tolerant to salt and dehydration,,Q79
+CAU1,Q1,Q3,H4R3sme2 (for histone H4 Arg 3 with symmetric dimethylation)-type histone methylase protein arginine methytransferase5/Shk1 binding protein1,cau1 mutant plants display increased drought tolerance and stomatal closure,,Q80
+CBF4,Q1,Q3,DREB family TF,"up-regulated by drought stress, overexpressors are more tolerant to freezing and drought stress",,Q81
+CBF4,Q1,Q13,CBF/DREB TF,overexpression in rice: enhanced drought tolerance,,Q82
+CBL1,Q1,Q3,calcineurin B-like protein,overexpression: enhanced tolerance to salt and drought,,Q83
+CBP20,Q1,Q3,Cap Binding Protein 20 (mRNA cap),loss-of-function: hypersensitivity to ABA,,Q84
+CDPK7,Q1,Q8,calcium-dependent protein kinase,overexpression: enhanced induction of stress-responsive genes,,Q85
+CIPK03,Q1,Q8,calcineurin B-like protein-interacting protein kinase,"overexpression: improved tolerance to drought, cold and salt stress",,Q86
+CIPK12,Q1,Q8,calcineurin B-like protein-interacting protein kinase,"overexpression: improved tolerance to drought, cold and salt stress",,Q87
+CIPK15,Q1,Q8,calcineurin B-like protein-interacting protein kinase,"overexpression: improved tolerance to drought, cold and salt stress",,Q88
+CLCc,Q1,Q3,chloride channel,"expressed guard cells, root an pollen; tonoplast; mutant: ABA dependent stomata closure impaired",,Q89
+CML9,Q1,Q3,calmodulin-like protein,knockout: enhanced drought and salt tolerance,,Q90
+CMO,Q1,Q14,Choline monooxygenase,glycine betaine biosynthesis,,Q91
+COIN,Q1,Q8,RING-finger protein,"overexpression: enhanced tolerance to cold, salt and drought",,Q92
+CPK21,Q1,Q3,calcium-dependent protein kinase,activated by hyperosmotic stress,,Q93
+CPK23,Q1,Q3,calcium-dependent protein kinase,mutant: enhanced tolerance to drought and salt stress,,Q94
+CpMYB10,Q1,Q15,MYB TF,overexpession in Ath: desiccation and salt tolerance,,Q95
+CrNCED1,Q1,Q16,ABA biosynthesis,"transgenic lines displayed enhanced tolerance to dehydration, drought, salt and oxidative stresses",,Q96
+CRT,Q1,Q17,"Calreticulin, Ca2+ binding protein",overexpressing tobacco: enhanced drought resistance,,Q97
+CYP707A1,Q1,Q3,ABA catabolism,8'-hydroxylation of ABA,,Q98
+CYP707A3,Q1,Q3,ABA catabolism,8'-hydroxylation of ABA,,Q99
+DgZFP3,Q1,Q18,Cys2/His2-type zinc finger protein gene,"The transgenic lines exhibited less accumulation of H2O2 under drought stress, more accumulation of proline and greater activities of peroxidase (POD) and superoxide dismutase than the WT under both control conditions and drought stress",,Q100
+DHAR2,Q1,Q3,dehydroascorbate reductase,"expression in tobacco: enhanced tolerance to ozone, drought, salt and PEG",,Q101
+DOR,Q1,Q3,"drought tolerance repressor, F-box protein","preferentially expressed guard cells, suppressed by ABA treatment, ko: hypersensitive to ABA, drought tolerance",,Q102
+DREB1A/CBF3,Q1,Q3,DREB family TF,overexpression in tobacco: improved drought stress tolerance,,Q103
+DREB2A,Q1,Q3,transcription factor (dehydration responsive element binding),expression induced by dehydration,,Q104
+DREB2A,Q1,Q4,homolog to arabidopsis DREB2A,"functional transcript induced by stress, overexpression leads to increased stress tolerance",,Q105
+DSM2,Q1,Q8,"put. beta-carotene hydroxylase, ABA biosynthesis",mutant: decreased drought resistance,,Q106
+EDT1/HDG11,Q1,Q3,"enhanced drought tolerance1, HD START TF","T-DNA activation tagged mutant: enhanced drought tolerance, more extensive root system, deeper roots more lateral roots",,Q107
+ERA1,Q1,Q3,farnesyltransferase,mutant: reduction in transpirational water loss during drought,,Q108
+ERD1,Q1,Q3,chloroplast-targeted Clp protease reg SU,induction of ERD1 requires over-expression of both ZFHD1 and NAC,,Q109
+EVP1,Q1,Q19,vacuolar pyrophosphatase,EVP1 overexpression conferred plant tolerance to salt and drought treatments,,Q110
+FAD3,Q1,Q10,fatty acid desaturase,overexpression in tobacco: increased drought tolerance,,Q111
+FAD8,Q1,Q3,fatty acid desaturase,overexpression in tobacco: increased drought tolerance,,Q112
+FAR1,Q1,Q3,"FAR-RED IMPAIRED RESPONSE1, key positive transcription factors in the phytochrome A pathway","fhy3 and far1 mutants have wider stomata, lose water faster, and are more sensitive to drought than the wild type.",,Q113
+FHY3,Q1,Q3,"FAR-RED ELONGATED HYPOCOTYL3, key positive transcription factors in the phytochrome A pathway","fhy3 and far1 mutants have wider stomata, lose water faster, and are more sensitive to drought than the wild type.",,Q114
+FSPD1,Q1,Q20,spermidin synthase,expression in AT: enhanced tolerance to multiple environmentalstresses,,Q115
+GbRLK,Q1,Q21,Receptor-like kinase,"constitutive overexpression of GbRLK exhibited a reduced rate of water loss in leaves in vitro, along with improved salinity and drought tolerance and increased sensitivity to ABA",,Q116
+GCR1,Q1,Q3,putative G protein-coupled receptor,mutant: hypersensitivity to ABA and drought tolerant,,Q117
+GF14lambda,Q1,Q3,14-3-3 protein,expression cotton: stay green phenotype and enhanced drought tolerance,,Q118
+GhMKK1,Q1,Q22,Mitogen-activated protein kinase kinases,overexpression of GhMKK1 in Nicotiana benthamiana enhanced its tolerance to salt and drought stresses,,Q119
+GhMT3a,Q1,Q22,"metallothionein, ROS scavenger",expression in tobacco: increased tolerance to abiotic stress,,Q120
+GL1-2,Q1,Q8,wax biosynthesis,knockout: more sensitive to drought,,Q121
+GmERF3,Q1,Q23,AP2/ERF-like transcription factor,expression in tobacco: tolerance to high salinity and drought,,Q122
+GmTP55,Q1,Q23,stress-induced plant antiquitin-like protein,overexpression in tobacco and AT: tolerance to water deficit,,Q123
+GolS1,Q1,Q3,"Galactinol Synthase, catalyzes the first step in the biosynthesis of Raffinose Family Oligosaccharides (RFOs) from UDP-galactose",expression induced by drought and high-salinity stress,,Q124
+GolS2,Q1,Q3,"Galactinol Synthase, catalyzes the first step in the biosynthesis of Raffinose Family Oligosaccharides (RFOs) from UDP-galactose","Overexpression of AtGolS2 in transgenic Arabidopsis caused an increase in endogenous galactinol and raffinose, and showed reduced transpiration from leaves to improve drought tolerance",,Q125
+GORK,Q1,Q3,outward K+ channel,disruption of GORK: stomatal closure is impaired,,Q126
+GPA1,Q1,Q3,alpha subunit of heterotrimeric GTP-binding protein,null mutant: ABA hypersensitivity,,Q127
+GPX3,Q1,Q3,glutathione peroxidase3,mutant: higher water loss under drought,,Q128
+GSTU17,Q1,Q3,glutathion s-transferase U17,knockout: higher GSH and ABA,,Q129
+GsZFP1,Q1,Q24,Cys2/His2-type zinc-finger protein,Overexpression of GsZFP1 also enhanced the drought tolerance of alfalfa,,Q130
+GTG1,Q1,Q3,"PM-ABA receptor, GPCR-type G protein",ABA induction of stomatal closure the gtg1 gtg2 mutant plants is ABA hyposensitive,,Q131
+GTG2,Q1,Q3,"PM-ABA receptor, GPCR-type G protein",ABA induction of stomatal closure the gtg1 gtg2 mutant plants is ABA hyposensitive,,Q132
+HAB1,Q1,Q3,PP2C,mutant: ABA hypersensitive,,Q133
+HARDY,Q1,Q3,AP2/ERF-like transcription factor,"AT gain-of-function: roots with enhanced strength, branching and cortical cells, drought resistance; overexpression in rice: drought tolerance",,Q134
+HD2C,Q1,Q3,histone deacetylase,expression repressed by ABA,,Q135
+HDA19,Q1,Q3,histone deacetylase,knockout: hypersensitive to salt and ABA,,Q136
+HDA6,Q1,Q3,histone deacetylase,knockout: hypersensitive to salt and ABA,,Q137
+HSFA1b,Q1,Q3,Heat shock transcription factor,increased HSFA1b expression showed increased water productivity and harvest index under water-replete and water-limiting conditions,,Q138
+HVA1,Q1,Q13,group 3 late embryogenesis abundant protein,transgenic wheat expressing HVA1 shows enhanced drought tolerance,,Q139
+HvPIP2,Q1,Q13,aquaporin,expression in rice: increased water loss & CO2 assimilation,,Q140
+HYL1,Q1,Q3,hyponastic leaves 1,RNA binding protein that affects ABA and drought sensitivity,,Q141
+IMT1,Q1,Q25,D-myo-inositol methyltransferase,expression in tobacco: enhanced tolerance to drought and salinity,,Q142
+JERF1,Q1,Q26,ethylene response factor (ERF),overexpression in tobacco: improved drought stress tolerance,,Q143
+KAT2,Q1,Q3,3-ketoacyl-CoA thiloase-2,"kat2-3 mutant: ABA-insensitive phenotypes, KAT2-overexpressing transgenic lines: strong ABA-hypersensitive phenotypes (ABA-induced stomatal closure and  inhibition of stomatal opening",,Q144
+KAT2,Q1,Q3,"K+ channel, inward rectifying",plants expressing a dominant negative (domneg) kat2 construct in the kat2-1 knockout background display decreased transpirational water loss during the light period when compared with WT plants,,Q145
+LEW1,Q1,Q3,"cis-prenyltransferase, involved in dolichol biosythesis",mutant increased drought tolerance but hypersensitive to dark stress,,Q146
+LHCB6,Q1,Q3,light harvesting chlorophyll a/b binding protein,"mutant: reduced resposiveness to ABA-dependent stomatal movement, decreased drought tolerance; overexpression: stomatal sensitivity to ABA is enhanced",,Q147
+LLA23,Q1,Q27,"ABA-, stress-, and ripening-induced protein",expression in Ath:reduced sensitivity to ABA,,Q148
+LOS5,Q1,Q3,molybdenum-cofactor sulfurase,"knockout: drought susceptible, ABA deficient, increased water loss",,Q149
+MdoMYB121,Q1,Q28,MYB TF,"A transgenic analysis indicated that the overexpression of the MdoMYB121 gene remarkably enhanced the tolerance to high salinity, drought, and cold stresses in transgenic tomato and apple plants",,Q150
+MH1,Q1,Q6,helicase1,expression in Ath: improved growth under drought,,Q151
+MIR168A,Q1,Q3,microRNA168,"overexpressor: ABA hypersensitive, enhanced drought tolerance",,Q152
+miR393,Q1,Q8,microRNA393,overexpressor: reduced tolerance to drought,,Q153
+MRP4,Q1,Q3,"multidrug resistance-associated protein, ABC transporter","knockout: increased stomatal aperture, increased water loss",,Q154
+MYB2,Q1,Q3,transcriptional activator of ABA signaling,overexpressor: improved stress tolerance,,Q155
+MYB4,Q1,Q8,MYB TF,overexpression in AT: accumulation of compatible solutes,,Q156
+MYB44,Q1,Q3,MYB type TF,"overexpression: more sensitive to ABA, more rapid ABA-induced stomatal closure",,Q157
+MYB60,Q1,Q3,R2R3-MYB,expression downregulated under dehydration, enhanced drought tolerance,Q158
+MYB61,Q1,Q3,R2R3-MYB,specifically expressed guard cells,,Q159
+MYC2,Q1,Q3,transcriptional activator of ABA signaling,overexpressor: improved stress tolerance,,Q160
+NAC2a,Q1,Q17,NAC TF,tobacco overexpressing TaNAC2a: higher dry and fresh weight under drought conditions,,Q161
+NADP-ME,Q1,Q4,NADP-malic enzyme,expression in tobacco: decreased stomatal conductance,,Q162
+NCED,Q1,Q3,ABA biosynthesis key enzyme,overexpressor: improved drought tolerance,,Q163
+NFYA5,Q1,Q3,part of NF-Y,"transcription induced by drought, ABA-dependent; contains target site for miR169, which is downregulated during stress; nfya5 ko: more sensitive to drought",,Q164
+NHO1,Q1,Q3,glycerol kinase,mutant: gli1 = glycerol-insensitive1: dehydration resistance,,Q165
+NPK1,Q1,Q29,MAPKKK from tobacco,stress tolerance in tobacco,,Q166
+NtAQP1,Q1,Q29,PIP1 plasma membrane aquaporin,reduced expression: lower water stress resistance,,Q167
+OCP3,Q1,Q3,HD family transcriptional regulator,knockout: drought resistance and enhanced disease resistance,,Q168
+OCPI1,Q1,Q8,Oryza sativa chymotrypsin inhibitor-like 1,overexpression: higher grain yield under drought,,Q169
+OsbZIP23,Q1,Q8,bZIP transcription factor,overexpressor: improved tolerance to drought andand high-salinity stress,,Q170
+OsbZIP71,Q1,Q8,bZIP transcription factor,"OsbZIP71 overexpressing (p35S::OsbZIP71) rice significantly improved tolerance to drought, salt and PEG osmotic stresses",,Q171
+OsbZIP72,Q1,Q8,bZIP transcription factor,"overexpressor: ABAhypersensitive, enhanced drought tolerance",,Q172
+OsDERF1,Q1,Q8,drought responsive ethylene response factor (ERF),knockdown: enhanced tolerance to drought,,Q173
+OsDREB1A,Q1,Q8,transcription factor (dehydration responsive element binding),"transgenic rice: improved drought, high-salt and cold stress tolerance",,Q174
+OsDREB2A,Q1,Q8,homolog to arabidopsis DREB2A,expression induced after dehydration,,Q175
+OsiSAP8,Q1,Q8,"Stress associated protein gene family, zinc finger domain","overexpression in tobacco and rice: tolerance to cold, salt and drought",,Q176
+OSM1/SYP61,Q1,Q3,"osmotic stess-sensitive; related to mammalian syntaxin, SNARE family protein",mutant: more prone to wilting,,Q177
+OsMSR2,Q1,Q8,calmodulin-like gene,expression in Ath: tolerance to salt and drought,,Q178
+OsMYB3R-2,Q1,Q8,MYB TF,"expression in Ath: increased tolerance to drought, cold and salt stress",,Q179
+OsPIP1-1,Q1,Q8,aquaporin,expression in arabidopsis: enhanced tolerance to salt and drought,,Q180
+OsPIP2-2,Q1,Q8,aquaporin,expression in arabidopsis: enhanced tolerance to salt and drought,,Q181
+OsPUP7,Q1,Q8,PUP(purine permease)-type cytokinin transporter gene,The mutant also showed increased sensitivity to drought and salt stresses and treatments with kinetin and abscisic acid,,Q182
+OST1/SRK2E,Q1,Q3,"Kinase-like (open stomata 1), activated by ABA, activates SLAC1",ABA-induced stomatal closure is impaired in ost1,,Q183
+OST2,Q1,Q3,plasma membrane proton ATPase,mutant: reduced ability to close stomata in response to drought,,Q184
+OsWRKY45,Q1,Q8,WRKY type TF,expression in Ath:enhanced tolerance to drought and biotic stress,,Q185
+P5CS,Q1,Q30,Pyrroline-5-Carboxylate Synthase,glutamtate --> proline,,Q186
+P5CS1,Q1,Q3,Pyrroline-5-Carboxylate Synthase,glutamtate --> proline,,Q187
+PARP1,Q1,Q3,poly(ADP-ribose) polymerase,downregulation: enhanced stress tolerance,,Q188
+PARP2,Q1,Q3,poly(ADP-ribose) polymerase,downregulation: enhanced stress tolerance,,Q189
+PDH45,Q1,Q31,stress responsive helicase,overexpressor: Stress-induced root growth was also substantially higher,,Q190
+PEPCK,Q1,Q3,PEP carboxykinase,isoform that is specifically expressed in GCs,,Q191
+PFA-DSP1,Q1,Q8,plant and fungi atypical dual-specifity phosphatase,"expression induced by drought, overexpression in rice/tobacco: increased sensitivity to drought",,Q192
+PIP1,Q1,Q3,PIP,overexpression: rapid water loss under dehydration stress,,Q193
+PIP2,Q1,Q3,PIP,overexpression: rapid water loss under dehydration stress,,Q194
+PLD,Q1,Q32,"Phospholipase D, lipid degrading enzyme",differential gene expression in drought -sensitive and -tolerant cultivars,,Q195
+PO2,Q1,Q11,extracellular peroxidase 2,"expression induced by drought, cold, high salinity; ko: increased susceptibility; overexpression in AT: enhanced tolerance to high salt, drought and oxidative stress",,Q196
+PP2Ac-1,Q1,Q17,"PP2A, catalytical subunit",overexpression in tobacco: higher drought tolerance,,Q197
+PP2C,Q1,Q4,PP2C,overexpression in Ath: decreased tolerance to salt and drought,,Q198
+PYL9/RCAR1,Q1,Q3,soluble ABA receptor interacts with and regulates PP2Cs ABI1 and ABI2,"overexpressor: hypersensitive to ABA, regulation of stomatal aperture is impaired",,Q199
+RFP1,Q1,Q4,"RING-finger protein, ortholog to AT SDIR1 (salt and drought -induced RING finger1)","upregulated by drought and exogenous ABA, Overexpression of ZmRFP1 enhanced drought tolerance in tobacco. The transgenic tobacco lines had more closed stomatal pores, higher proline accumulation, but lower levels of malondialdehyde (MDA) when compared wit",,Q200
+RGS1,Q1,Q3,regulator of G-protein signaling,overexpression: increased drought tolerance,,Q201
+RPK1,Q1,Q3,LRR receptor like kinase,upregulated by ABA,,Q202
+RWC3,Q1,Q8,aquaporin,overexpression: higher root osmotic hydraulic conductivity,,Q203
+SAD1,Q1,Q3,"supersensitive to ABA and drought 1; put RNA binding protein, RNA processing and / or degradation",sad1: ABA and drought oversensitivity,,Q204
+SAMDC,Q1,Q5,"S-adenosyl methionine decarboxylase, Polyamin synthesis",no drought tolerance but faster recovery in SAMDC expressing rice,,Q205
+SHINE1 (SHN1/WIN1),Q1,Q3,"AP2/EREBP transcription factor, wax production",overexpressor,,Q206
+SIERF5 (ERF5),Q1,Q26,ethylene response factor (ERF) superfamily,"expression induced by salinity, drought; overexpression: higher tolerance to drought",,Q207
+SINAGS1,Q1,Q26,single copy of N-acetyl-L-glutamate synthase,expression in Ath: accumulation of ornithine,,Q208
+SLAC1,Q1,Q3,slow anion channel 1,"slac1: higher stomatal conductance than wild type, increased water loss",,Q209
+SLAH3,Q1,Q3,guard cell S-type anion channel (SLAC1 homolog),S-type anion channels are direct targets of ABA signaling and lead to release of chloride and nitrate--> stomatal closure,,Q210
+SlTIP2,Q1,Q26,TIP,"overexpression: increased transpiration, anisohydric, drought tolerant behavior",,Q211
+SNAC1,Q1,Q8,stress-responsive NAC1,overexpression in rice: drought tolerance is enhanced,,Q212
+SOD,Q1,Q6,superoxide dismutase,overexpression: more tolerant to water deficit,,Q213
+SodERF3,Q1,Q33,AP2/ERF-like transcription factor,expression in tobacco: tolerance to drought,,Q214
+SQE1,Q1,Q3,squalene epoxidase1,knockout: hypersensitive to drought,,Q215
+Srg6,Q1,Q17,"stress-responsive gene, TF",overexpression in Ath: water stress tolerance,,Q216
+SRK2C,Q1,Q3,"SNF1-related protein kinase 2, osmotic-stress-activated protein kinase",knockout: drought hypersensitivity in roots,,Q217
+STZ,Q1,Q3,ZPT2-related protein,overexpressor: growth retardation and tolerance to drought stress,,Q218
+TaBTF3,Q1,Q17,"Basic transcription factor 3,  transcriptional initiation of RNA polymerase II","TaBTF3-silenced wheat plants showed lower survival rates, free proline content, and relative water content and higher relative electrical conductivity and water loss rate",,Q219
+TaLEA,Q1,Q34,Late embryogenesis abundant,TaLEA gene may enhance salt and drought tolerance by protecting cell membranes from damage,,Q220
+TAS14,Q1,Q26,"dehydrin, group2 LEA proteins",overexpressors: improved long-term drought tolerance,,Q221
+TERF1,Q1,Q26,tomato ERF transcription activator,expression in tobacco: ABA hypersensitivity and drought tolerance,,Q222
+ThbZIP1,Q1,Q35,bZIP TF,"Expression of ThbZIP1 is induced by ABA, salt, drought, methyl viologen and cold",,Q223
+ThIPK2,Q1,Q36,inositol polyphosphate kinase,expression in Brassica: improved salt dehydration and oxidative stress resistance,,Q224
+TPS1,Q1,Q3,trehalose-6-phosphate synthase,expression in tobacco: increased drought tolerance,,Q225
+UGE-1,Q1,Q8,"UDP-glucose 4-spimerase, conversion of UDP-GLC to UDP-D-galactose and vv","overexpression in Ath: enhanced tolerance to drought, salt and cold",,Q226
+VP,Q1,Q37,vacuolar membrane H+-Pyrophosphatase,overexpression in AT: increased salt and drought tolerance,,Q227
+WR1,Q1,Q8,"wax synthesis regulatory gene 1, homology to AT SHN1/WIN1",transcription induced by drought,,Q228
+WRKY19,Q1,Q17,WRKY-type TF,overexpression in AT: enhanced drought tolerance,,Q229
+WRKY2,Q1,Q17,WRKY-type TF,overexpression in AT: enhanced drought tolerance,,Q230
+WXP1,Q1,Q38,putative AP2 domain-containing TF,activates waxproduction in the acyl-reduction pathway,,Q231
+XERICO,Q1,Q3,"small protein, N-term- TM domain and RING-H2 zinc-finger motif","gene expression induced by salt and osmotic stress, overexpressors: hypersensitive to salt and osmotic stress",,Q232
+ZFP1,Q1,Q24,C2H2-type zinc-finger protein,overexpression in AT: greater tolerance to cold and drought,,Q233
+ZFP1,Q1,Q39,Cys2/His2 FZP protein,heterologous expression in AT: improved tolerance to salinity and drought,,Q234
+ZmACS6,Q1,Q4,"ACC synthase, first step in ethylene biosynthesis",loss-of-function: delayed drought-induced senescence (chlorophyll content),,Q235
+ZmCPK4,Q1,Q4,Calcium-dependent protein kinases,"overexpression of ZmCPK4 in the transgenic Arabidopsis enhanced ABA sensitivity in seed germination, seedling growth and stomatal movement. The transgenic plants also enhanced drought stress tolerance",,Q236
+ZmDREB2.7,Q1,Q4,DREB TF,"natural variation in the promoter of ZmDREB2.7 contributes to maize drought tolerance,  transgenic Arabidopsis overexpressing ZmDREB2.7 displayed enhanced tolerance to drought stress.",,Q237
+ZmNF-YB2,Q1,Q4,"plant transcription factor, nuclear factor Y family protein",increased expression level: improved performance under drought conditions,,Q238
+ZPT2-3/EPF2-7,Q1,Q40,Cys2/His2- type zinc finger protein,overexpression: increased tolerance to dehydration,,Q239
