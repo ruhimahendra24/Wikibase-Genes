@@ -1,4 +1,4 @@
 WBUSER = 'WikibaseAdmin'
-WBPASS = 'bot@lienr645uslubrs5sc5vursvgtdrr2sp'
+WBPASS = 'bot@gmeh0fnjiv4pveo5p11imog05ijn8mhm'
 WBURL = '10.0.2.15'
 

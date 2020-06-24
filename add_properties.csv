@@ -1,5 +1,5 @@
 Property Label,Datatype,Property Description
 instance of,wikibase-item,rdf type
-Organism found in,wikibase-item,Organism where the gene is found in
+Taxon found in,wikibase-item,Taxon where the gene is found in
 Biological Function,String,Biological Function of Gene
 Phenotype,String,Phenotype of Gene
